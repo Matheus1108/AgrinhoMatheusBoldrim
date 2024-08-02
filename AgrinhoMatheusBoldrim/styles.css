@@ -21,7 +21,7 @@ body {
 }
 
 .principal {
-    background-image: url("img/ABEIA.png");
+    background-image: url("img/images.jpeg");
     background-repeat: no-repeat;
     background-size: contain;
     align-items: center;
@@ -158,6 +158,6 @@ body {
     position: absolute;
     right: 100px;
     top: 150px;
-    width: 800px;
-    height: 600px;
+    width: 600px;
+    height: 400px;
 }
